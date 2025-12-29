@@ -8,7 +8,7 @@
 <img src="https://i.pinimg.com/originals/e7/c8/dc/e7c8dc5e4d7272c4f35f63c50d33d1ea.gif" style="width:800px; height: 200px;"/>
 
 🌱 programo por curiosidade • 🐧 usuário de linux • 🎮 fã de anime  
-feito com vontade de aprender, café duvidoso e código aberto
+feito com vontade de aprender, toddy duvidoso e código aberto
 
 </div>
 
@@ -20,7 +20,7 @@ feito com vontade de aprender, café duvidoso e código aberto
 - tenho **17 anos**
 - curioso por tecnologia desde os **12**
 - uso **Linux** como sistema principal  
-  > *sim, eu uso arch*
+  > *sim, eu uso arch :)*
 - gosto de **software livre**, aprender errando e criar do zero
 - **gambiarra a gente aceita**, desde que funcione
 - sempre aberto a conversar, colaborar e receber sugestões ✨
@@ -29,6 +29,12 @@ feito com vontade de aprender, café duvidoso e código aberto
 $ whoami
 italo
 
+$ ls -l
+drwxr-xr-x  5 italo italo 4096 Dec 29 20:00 .
+-rw-r--r--  1 italo italo  220 Dec 29 19:56 README.md
+
+$ echo "Bem-vindo ao meu perfil!"
+Bem-vindo ao meu perfil!
 ````
 
 > “A pressa é inimiga da perfeição,
@@ -87,12 +93,6 @@ italo
 
 > “Não sabendo que era impossível, foi lá e tentou.”
 > — adaptação livre de uma ideia popular
-
-## 📫 onde me encontrar
-
-* 🐙 github: [https://github.com/thesnaggleback](https://github.com/thesnaggleback)
-* 🚧 projetos: sempre em obra
-* 💬 pode chegar para trocar ideia
 
 <div align="center">
 
